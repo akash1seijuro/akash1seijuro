@@ -1,4 +1,4 @@
-## Hi there 👋
+## Programming in C++ && Java && Python 
 
 <!--
 **akash1seijuro/akash1seijuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
